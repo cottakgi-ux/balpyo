@@ -1,0 +1,1165 @@
+The following image can be moved on the page using keyboard controls (left, right, up, down)
+ChatGPT
+
+
+
+
+팀 멤버 초대하기
+
+버튼을 누르면 우리 반 학생 중 한 명을 랜덤으로 뽑아주는 페이지 만들어줘. 이름을 한 명씩 말고, 여러 명을 한 번에 붙여넣어서 등록할 수 있게 해줘.엑셀에서 복사한 것도 되게 해 줘.
+
+버튼을 누르면 우리 반 학생 중 한 명을 랜덤으로 뽑아주는 페이지 만들어줘. 이름을 한 명씩 말고, 여러 명을 한 번에 붙여넣어서 등록할 수 있게 해줘.엑셀에서 복사한 것도 되게 해 줘.뽑을 때 이름들이 빠르게 휙휙 바뀌다가 멈추는 두근두근 효과를 넣어줘.
+
+버튼을 누르면 우리 반 학생 중 한 명을 랜덤으로 뽑아주는 페이지 만들어줘. 이름을 한 명씩 말고, 여러 명을 한 번에 붙여넣어서 등록할 수 있게 해줘. 엑셀에서 복사한 것도 되게 해 줘.뽑을 때 이름들이 빠르게 휙휙 바뀌다가 멈추는 두근두근 효과를 넣어줘. 한 번 뽑힌 학생은 다시 안 뽑히게 하고, 누가 뽑혔는지 목록으로 보여줘.
+
+버튼을 누르면 우리 반 학생 중 한 명을 랜덤으로 뽑아주는 페이지 만들어줘. 이름을 한 명씩 말고, 여러 명을 한 번에 붙여넣어서 등록할 수 있게 해줘. 엑셀에서 복사한 것도 되게 해 줘.뽑을 때 이름들이 빠르게 휙휙 바뀌다가 멈추는 두근두근 효과를 넣어줘. 한 번 뽑힌 학생은 다시 안 뽑히게 하고, 누가 뽑혔는지 목록으로 보여줘.색깔이랑 글씨를 예쁘고 크게 해서, 교실 TV 화면에 띄워도 뒤에서 잘 보이게 해줘.
+
+교실 TV에서 멀리 봐도 잘 보이도록 전체 화면형 디자인으로 바꾸겠습니다. 큰 이름 표시, 강한 대비, 큼직한 버튼, 뽑힌 목록도 카드처럼 잘 보이게 구성하겠습니다.
+
+54s 동안 생각함
+완성했습니다. 교실 TV에 띄워도 뒤에서 잘 보이도록 글씨를 크게 키우고, 색 대비가 강한 전체 화면형 디자인으로 바꿨습니다.
+
+랜덤 학생 뽑기 HTML 파일 다운로드
+
+반영된 기능:
+
+엑셀에서 복사한 명단 그대로 붙여넣기 가능
+
+여러 명 이름을 한 번에 등록
+
+줄바꿈, 탭, 쉼표, 세미콜론 기준 자동 분리
+
+중복 이름 자동 제외
+
+버튼을 누르면 이름이 빠르게 바뀌다가 멈추는 두근두근 효과
+
+한 번 뽑힌 학생은 다시 안 뽑힘
+
+누가 뽑혔는지 순서대로 목록 표시
+
+뽑힌 기록만 초기화 가능
+
+전체 명단 초기화 가능
+
+브라우저에 명단과 뽑힌 기록 자동 저장
+
+TV 화면용 큰 글씨, 선명한 색, 큼직한 버튼 적용
+
+
+
+버튼을 누르면 우리 반 학생 중 한 명을 랜덤으로 뽑아주는 페이지 만들어줘. 이름을 한 명씩 말고, 여러 명을 한 번에 붙여넣어서 등록할 수 있게 해줘. 엑셀에서 복사한 것도 되게 해 줘.뽑을 때 이름들이 빠르게 휙휙 바뀌다가 멈추는 두구두구 효과를 넣어줘. 한 번 뽑힌 학생은 다시 안 뽑히게 하고, 누가 뽑혔는지 목록으로 보여줘.색깔이랑 글씨를 예쁘고 크게 해서, 교실 TV 화면에 띄워도 뒤에서 잘 보이게 해줘.뽑힌 학생을 다시 후보로 되돌리는 '초기화' 버튼을 넣어줘.배경색깔은 [ 핑크 ], 폰트는 [ 프리텐다드 ] 로 수정해줘당첨자가 나오면 화면에 색종이가 펑 터지는 효과를 넣어주고 두구두구 돌아갈 때 소리, 당첨될 때 '띠링' 소리를 넣어줘.
+
+못하는거야? 안되는 거야?
+
+됩니다. 방금은 제가 요청을 “이미지 생성” 쪽으로 잘못 처리했습니다. 지금은 HTML 파일 자체를 수정해서, 당첨자 이름 옆에 귀여운 캐릭터가 펄쩍펄쩍 뛰는 애니메이션이 보이도록 반영하겠습니다.
+
+1m 38s 동안 생각함
+됩니다. 제가 방금 요청을 잘못 처리해서 늦었습니다.
+
+HTML 파일을 수정해서 당첨자 이름 옆에 귀여운 토끼 캐릭터가 기뻐서 펄쩍펄쩍 뛰는 애니메이션이 나오도록 넣었습니다. 색종이 폭죽, 두구두구 소리, 띠링 소리도 유지했습니다.
+
+수정된 랜덤 학생 뽑기 HTML 다운로드
+
+추가 반영:
+
+당첨자 옆에 귀여운 캐릭터 표시
+
+캐릭터가 펄쩍펄쩍 뛰는 애니메이션
+
+반짝이, 하트, 별 효과
+
+초등학생들이 좋아할 만한 밝고 귀여운 분위기
+
+기존 핑크 배경, 프리텐다드 폰트, TV용 큰 글씨 유지
+
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>우리 반 랜덤 학생 뽑기</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <style>
+    @font-face {
+      font-family: 'Pretendard';
+      src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/woff2/Pretendard-Regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Pretendard';
+      src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2') format('woff2');
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Pretendard';
+      src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/woff2/Pretendard-Black.woff2') format('woff2');
+      font-weight: 900;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    :root {
+      --pink-50: #fff0f7;
+      --pink-100: #ffe3f1;
+      --pink-200: #ffc4e0;
+      --pink-300: #ff8dc0;
+      --pink-500: #ff4aa2;
+      --pink-700: #d91772;
+      --purple: #7c3aed;
+      --yellow: #ffe66d;
+      --mint: #66e8c5;
+      --ink: #351129;
+      --muted: #7a3a62;
+      --card: rgba(255, 255, 255, 0.88);
+      --shadow: 0 24px 70px rgba(172, 30, 102, 0.22);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: 'Pretendard', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 8% 12%, rgba(255,255,255,.95) 0 8%, transparent 9%),
+        radial-gradient(circle at 92% 16%, rgba(255,230,109,.75) 0 7%, transparent 8%),
+        radial-gradient(circle at 15% 90%, rgba(102,232,197,.65) 0 9%, transparent 10%),
+        linear-gradient(135deg, #ffd1e7 0%, #ff8fc4 45%, #ffb3d6 100%);
+      overflow-x: hidden;
+    }
+
+    .confetti-layer {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      overflow: hidden;
+      z-index: 30;
+    }
+
+    .confetti {
+      position: absolute;
+      top: -24px;
+      width: 16px;
+      height: 26px;
+      border-radius: 5px;
+      opacity: .96;
+      animation: confettiFall var(--duration, 4s) linear forwards;
+    }
+
+    @keyframes confettiFall {
+      0% { transform: translate3d(0, -40px, 0) rotate(0deg); }
+      100% { transform: translate3d(var(--drift, 0px), 112vh, 0) rotate(900deg); }
+    }
+
+    .page {
+      width: min(1760px, 100%);
+      margin: 0 auto;
+      padding: clamp(18px, 2.4vw, 42px);
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 22px;
+    }
+
+    .title h1 {
+      margin: 0;
+      font-size: clamp(42px, 5vw, 92px);
+      line-height: .95;
+      letter-spacing: -0.07em;
+      font-weight: 900;
+      color: #fff;
+      text-shadow: 0 7px 0 rgba(176, 28, 102, .32), 0 16px 36px rgba(95, 9, 53, .26);
+    }
+
+    .title p {
+      margin: 12px 0 0;
+      font-size: clamp(20px, 2vw, 34px);
+      font-weight: 900;
+      color: #5b1741;
+    }
+
+    .sound-pill {
+      flex: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 16px 22px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.78);
+      font-size: clamp(18px, 1.5vw, 28px);
+      font-weight: 900;
+      box-shadow: 0 12px 32px rgba(124, 58, 237, .14);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(380px, .85fr) minmax(560px, 1.35fr) minmax(360px, .85fr);
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .panel {
+      background: var(--card);
+      border: 5px solid rgba(255,255,255,.86);
+      border-radius: 38px;
+      padding: clamp(20px, 2vw, 34px);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+    }
+
+    .panel h2 {
+      margin: 0 0 14px;
+      font-size: clamp(30px, 2.8vw, 50px);
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      color: #871357;
+    }
+
+    .help {
+      margin: 0 0 16px;
+      font-size: clamp(17px, 1.35vw, 25px);
+      font-weight: 800;
+      color: var(--muted);
+      line-height: 1.45;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 230px;
+      resize: vertical;
+      border: 5px solid var(--pink-200);
+      border-radius: 28px;
+      padding: 20px;
+      font: inherit;
+      font-size: clamp(22px, 1.9vw, 34px);
+      font-weight: 800;
+      line-height: 1.45;
+      outline: none;
+      background: #fff;
+      color: var(--ink);
+      box-shadow: inset 0 4px 16px rgba(217, 23, 114, .07);
+    }
+
+    textarea:focus {
+      border-color: var(--pink-500);
+      box-shadow: 0 0 0 8px rgba(255, 74, 162, .16), inset 0 4px 16px rgba(217, 23, 114, .07);
+    }
+
+    .button-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 16px;
+    }
+
+    button {
+      border: 0;
+      border-radius: 999px;
+      padding: 18px 20px;
+      font: inherit;
+      font-size: clamp(19px, 1.45vw, 28px);
+      font-weight: 900;
+      cursor: pointer;
+      transition: transform .08s ease, filter .15s ease, opacity .15s ease;
+      box-shadow: 0 10px 0 rgba(78, 24, 70, .18), 0 18px 30px rgba(94, 9, 55, .16);
+    }
+
+    button:hover:not(:disabled) { filter: brightness(1.05); }
+    button:active:not(:disabled) { transform: translateY(6px); box-shadow: 0 4px 0 rgba(78, 24, 70, .18), 0 10px 20px rgba(94, 9, 55, .13); }
+    button:disabled { opacity: .52; cursor: not-allowed; filter: grayscale(.35); }
+
+    .btn-main { background: linear-gradient(135deg, #ff4aa2, #ec4899); color: #fff; }
+    .btn-sub { background: #fff; color: #9d174d; }
+    .btn-green { background: linear-gradient(135deg, #34d399, #10b981); color: #073b2d; }
+    .btn-danger { background: linear-gradient(135deg, #fecaca, #fb7185); color: #7f1d1d; }
+
+    .stage-panel {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-height: 650px;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 50% 16%, rgba(255,255,255,.95), transparent 34%),
+        linear-gradient(180deg, rgba(255,255,255,.92), rgba(255,240,247,.88));
+    }
+
+    .stage-label {
+      align-self: center;
+      display: inline-flex;
+      gap: 12px;
+      align-items: center;
+      justify-content: center;
+      padding: 14px 24px;
+      border-radius: 999px;
+      background: #fff3bf;
+      color: #8a4b00;
+      font-size: clamp(22px, 2vw, 38px);
+      font-weight: 900;
+      box-shadow: 0 12px 0 rgba(245, 158, 11, .18);
+      margin-bottom: 24px;
+    }
+
+    .winner-card {
+      position: relative;
+      min-height: clamp(230px, 27vw, 430px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: clamp(10px, 2vw, 26px);
+      padding: clamp(24px, 3vw, 54px);
+      border-radius: 44px;
+      border: 8px solid #fff;
+      background:
+        linear-gradient(135deg, rgba(255,255,255,.97), rgba(255,238,248,.97)),
+        radial-gradient(circle, #fff 0, #ffe3f1 100%);
+      box-shadow: inset 0 -14px 0 rgba(255, 143, 196, .19), 0 22px 58px rgba(185, 28, 110, .2);
+      overflow: hidden;
+    }
+
+    .winner-card::before {
+      content: '';
+      position: absolute;
+      inset: 18px;
+      border-radius: 32px;
+      border: 5px dashed rgba(255, 74, 162, .25);
+      pointer-events: none;
+    }
+
+    .winner-text-wrap {
+      position: relative;
+      z-index: 2;
+      min-width: 0;
+      text-align: center;
+    }
+
+    .winner-name {
+      font-size: clamp(62px, 9vw, 170px);
+      line-height: .95;
+      font-weight: 900;
+      letter-spacing: -0.08em;
+      color: #be185d;
+      text-shadow: 0 9px 0 #ffe3f1, 0 18px 36px rgba(190, 24, 93, .23);
+      word-break: keep-all;
+      overflow-wrap: anywhere;
+    }
+
+    .winner-name.rolling {
+      animation: rollingPulse .12s infinite alternate;
+      color: #7c3aed;
+    }
+
+    .winner-name.final {
+      animation: winnerPop .75s cubic-bezier(.18, 1.5, .38, 1) both;
+    }
+
+    @keyframes rollingPulse {
+      from { transform: scale(.97) rotate(-.7deg); filter: blur(.8px); }
+      to { transform: scale(1.03) rotate(.7deg); filter: blur(0); }
+    }
+
+    @keyframes winnerPop {
+      0% { transform: scale(.62) rotate(-4deg); opacity: .25; }
+      55% { transform: scale(1.16) rotate(2deg); opacity: 1; }
+      100% { transform: scale(1) rotate(0); opacity: 1; }
+    }
+
+    .mascot-zone {
+      position: relative;
+      z-index: 2;
+      display: none;
+      width: clamp(120px, 13vw, 250px);
+      flex: none;
+      justify-content: center;
+      align-items: flex-end;
+      min-height: clamp(150px, 16vw, 290px);
+    }
+
+    .winner-card.show-mascot .mascot-zone { display: flex; }
+
+    .mascot {
+      position: relative;
+      width: clamp(105px, 11vw, 210px);
+      height: clamp(125px, 13vw, 250px);
+      animation: mascotJump .55s ease-in-out infinite;
+      transform-origin: bottom center;
+    }
+
+    @keyframes mascotJump {
+      0%, 100% { transform: translateY(0) scaleY(1); }
+      35% { transform: translateY(-34px) scaleY(1.04); }
+      65% { transform: translateY(0) scaleY(.96); }
+    }
+
+    .mascot .ear {
+      position: absolute;
+      top: 0;
+      width: 31%;
+      height: 45%;
+      border-radius: 999px 999px 60% 60%;
+      background: #fff;
+      border: 7px solid #6d3b2c;
+      z-index: 1;
+    }
+    .mascot .ear.left { left: 12%; transform: rotate(-14deg); }
+    .mascot .ear.right { right: 12%; transform: rotate(14deg); }
+    .mascot .ear::after {
+      content: '';
+      position: absolute;
+      inset: 17% 22%;
+      border-radius: inherit;
+      background: #ffb7d8;
+    }
+
+    .mascot .head {
+      position: absolute;
+      left: 8%;
+      right: 8%;
+      top: 26%;
+      height: 58%;
+      border-radius: 48% 48% 44% 44%;
+      background: #fff;
+      border: 8px solid #6d3b2c;
+      z-index: 3;
+      box-shadow: inset 0 -10px 0 rgba(255, 183, 216, .35);
+    }
+
+    .mascot .face {
+      position: absolute;
+      inset: 0;
+      z-index: 5;
+    }
+    .mascot .eye {
+      position: absolute;
+      top: 40%;
+      width: 12%;
+      height: 17%;
+      border-radius: 50%;
+      background: #2d1a18;
+      animation: blink 3.2s infinite;
+    }
+    .mascot .eye.left { left: 31%; }
+    .mascot .eye.right { right: 31%; }
+    @keyframes blink { 0%, 90%, 100% { transform: scaleY(1); } 94% { transform: scaleY(.12); } }
+
+    .mascot .cheek {
+      position: absolute;
+      top: 55%;
+      width: 18%;
+      height: 11%;
+      border-radius: 999px;
+      background: #ff8fc4;
+      opacity: .7;
+    }
+    .mascot .cheek.left { left: 16%; }
+    .mascot .cheek.right { right: 16%; }
+
+    .mascot .mouth {
+      position: absolute;
+      left: 50%;
+      top: 55%;
+      width: 24%;
+      height: 18%;
+      border: 6px solid #2d1a18;
+      border-top: 0;
+      border-radius: 0 0 999px 999px;
+      transform: translateX(-50%);
+    }
+
+    .mascot .arm {
+      position: absolute;
+      top: 50%;
+      width: 25%;
+      height: 12%;
+      border-radius: 999px;
+      background: #fff;
+      border: 6px solid #6d3b2c;
+      z-index: 2;
+      animation: armWave .35s ease-in-out infinite alternate;
+    }
+    .mascot .arm.left { left: -7%; transform-origin: right center; }
+    .mascot .arm.right { right: -7%; transform-origin: left center; animation-delay: .12s; }
+    @keyframes armWave {
+      from { transform: rotate(-25deg); }
+      to { transform: rotate(35deg); }
+    }
+
+    .sparkle {
+      position: absolute;
+      z-index: 4;
+      font-size: clamp(30px, 3.4vw, 64px);
+      animation: sparkleFloat 1.1s ease-in-out infinite alternate;
+      filter: drop-shadow(0 8px 12px rgba(217, 23, 114, .2));
+    }
+    .sparkle.s1 { left: 2%; top: 18%; animation-delay: 0s; }
+    .sparkle.s2 { right: 5%; top: 8%; animation-delay: .2s; }
+    .sparkle.s3 { right: 1%; bottom: 16%; animation-delay: .4s; }
+    @keyframes sparkleFloat {
+      from { transform: translateY(0) rotate(-8deg) scale(.9); }
+      to { transform: translateY(-18px) rotate(8deg) scale(1.08); }
+    }
+
+    .draw-btn {
+      width: 100%;
+      margin-top: 24px;
+      padding: clamp(24px, 2.4vw, 40px);
+      font-size: clamp(34px, 4.2vw, 76px);
+      color: #fff;
+      background: linear-gradient(135deg, #ef4444, #f97316, #facc15);
+      text-shadow: 0 4px 0 rgba(0,0,0,.18);
+      box-shadow: 0 18px 0 #9a3412, 0 34px 56px rgba(154, 52, 18, .36);
+    }
+    .draw-btn:active:not(:disabled) { transform: translateY(10px); box-shadow: 0 8px 0 #9a3412, 0 20px 36px rgba(154,52,18,.3); }
+
+    .message {
+      min-height: 1.3em;
+      margin: 24px 0 0;
+      text-align: center;
+      font-size: clamp(24px, 2.4vw, 45px);
+      font-weight: 900;
+      color: #6d1450;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    .stat {
+      border-radius: 24px;
+      padding: 16px 10px;
+      text-align: center;
+      background: rgba(255,255,255,.78);
+      border: 4px solid rgba(255,255,255,.8);
+    }
+
+    .stat b {
+      display: block;
+      font-size: clamp(30px, 3vw, 58px);
+      line-height: 1;
+      color: #be185d;
+      font-weight: 900;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      font-size: clamp(16px, 1.3vw, 24px);
+      font-weight: 900;
+      color: var(--muted);
+    }
+
+    .list-box {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      max-height: 74vh;
+      overflow: hidden;
+    }
+
+    .list-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      font-size: clamp(21px, 1.8vw, 32px);
+      font-weight: 900;
+      color: #871357;
+    }
+
+    .pill {
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: #fff3bf;
+      color: #8a4b00;
+      font-size: clamp(17px, 1.25vw, 24px);
+    }
+
+    .student-list, .picked-list {
+      flex: 1;
+      min-height: 160px;
+      overflow: auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-content: flex-start;
+      padding: 14px;
+      border-radius: 28px;
+      background: rgba(255,255,255,.7);
+      border: 4px dashed rgba(255, 74, 162, .24);
+      margin: 0;
+      list-style: none;
+    }
+
+    .chip, .picked-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border-radius: 999px;
+      padding: 11px 14px;
+      font-size: clamp(19px, 1.45vw, 28px);
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .chip {
+      background: #fff;
+      color: #68123f;
+      border: 3px solid #ffc4e0;
+    }
+
+    .chip.picked {
+      opacity: .45;
+      text-decoration: line-through;
+      background: #f1f5f9;
+      border-color: #d1d5db;
+    }
+
+    .chip button {
+      width: 32px;
+      height: 32px;
+      padding: 0;
+      background: #ffe4e6;
+      color: #991b1b;
+      box-shadow: none;
+      font-size: 22px;
+      line-height: 1;
+    }
+
+    .picked-item {
+      width: 100%;
+      justify-content: space-between;
+      background: linear-gradient(135deg, #fff, #fff0f7);
+      border: 3px solid #ffb3d6;
+      color: #801348;
+    }
+
+    .order {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 42px;
+      height: 42px;
+      border-radius: 999px;
+      margin-right: 10px;
+      background: #ff4aa2;
+      color: #fff;
+      font-size: clamp(16px, 1.2vw, 24px);
+    }
+
+    .empty {
+      width: 100%;
+      padding: 22px;
+      border-radius: 22px;
+      background: rgba(255,255,255,.65);
+      color: var(--muted);
+      text-align: center;
+      font-size: clamp(18px, 1.45vw, 26px);
+      font-weight: 900;
+    }
+
+    @media (max-width: 1200px) {
+      .grid { grid-template-columns: 1fr; }
+      .stage-panel { min-height: 560px; }
+      .list-box { max-height: none; }
+      header { flex-direction: column; align-items: flex-start; }
+    }
+
+    @media (max-width: 720px) {
+      .button-grid, .stats { grid-template-columns: 1fr; }
+      .winner-card { flex-direction: column; }
+      .winner-card.show-mascot .mascot-zone { display: flex; }
+      .sound-pill { width: 100%; justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <div class="confetti-layer" id="confettiLayer" aria-hidden="true"></div>
+
+  <div class="page">
+    <header>
+      <div class="title">
+        <h1>우리 반 랜덤 뽑기</h1>
+        <p>엑셀 명단을 붙여넣고, 두구두구! 오늘의 주인공을 뽑아요.</p>
+      </div>
+      <div class="sound-pill">🔊 버튼을 누르면 소리가 나요</div>
+    </header>
+
+    <main class="grid">
+      <section class="panel">
+        <h2>명단 등록</h2>
+        <p class="help">이름을 여러 명 한 번에 붙여넣으세요. 엑셀에서 복사한 표도 자동으로 나눠서 등록됩니다.</p>
+        <textarea id="nameInput" placeholder="예시)
+김민준	이서연	박지호
+최하은	정우진	한지민
+윤도현, 강서윤, 오지후"></textarea>
+        <div class="button-grid">
+          <button class="btn-main" id="addBtn">명단 등록</button>
+          <button class="btn-sub" id="sampleBtn">예시 넣기</button>
+          <button class="btn-green" id="resetPickedBtn">뽑힌 학생 초기화</button>
+          <button class="btn-danger" id="clearAllBtn">전체 삭제</button>
+        </div>
+      </section>
+
+      <section class="panel stage-panel" aria-label="랜덤 뽑기 무대">
+        <div class="stage-label">🎉 오늘의 주인공 🎉</div>
+        <div class="winner-card" id="winnerCard" aria-live="polite">
+          <div class="winner-text-wrap">
+            <div class="winner-name" id="winnerName">준비!</div>
+          </div>
+          <div class="mascot-zone" id="mascotZone" aria-hidden="true">
+            <span class="sparkle s1">✨</span>
+            <span class="sparkle s2">💖</span>
+            <span class="sparkle s3">⭐</span>
+            <div class="mascot" title="기뻐하는 토끼 캐릭터">
+              <div class="ear left"></div>
+              <div class="ear right"></div>
+              <div class="arm left"></div>
+              <div class="arm right"></div>
+              <div class="head">
+                <div class="face">
+                  <div class="eye left"></div>
+                  <div class="eye right"></div>
+                  <div class="cheek left"></div>
+                  <div class="cheek right"></div>
+                  <div class="mouth"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="draw-btn" id="pickBtn">두구두구 뽑기!</button>
+        <p class="message" id="message">명단을 등록한 뒤 버튼을 눌러 주세요.</p>
+        <div class="stats">
+          <div class="stat"><b id="totalCount">0</b><span>전체</span></div>
+          <div class="stat"><b id="remainingCount">0</b><span>남음</span></div>
+          <div class="stat"><b id="pickedCount">0</b><span>뽑힘</span></div>
+        </div>
+      </section>
+
+      <section class="panel list-box">
+        <div>
+          <h2>뽑힌 학생</h2>
+          <p class="help">한 번 뽑힌 학생은 다시 뽑히지 않습니다.</p>
+        </div>
+        <div class="list-head">
+          <span>당첨 순서</span>
+          <span class="pill" id="pickedText">0명</span>
+        </div>
+        <ul class="picked-list" id="pickedList"></ul>
+      </section>
+
+      <section class="panel list-box" style="grid-column: 1 / -1;">
+        <div class="list-head">
+          <span>전체 명단</span>
+          <span class="pill" id="studentText">0명</span>
+        </div>
+        <ul class="student-list" id="studentList"></ul>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const STORAGE_KEY = 'random-student-picker-pink-tv-students-v1';
+    const PICKED_KEY = 'random-student-picker-pink-tv-picked-v1';
+
+    const $ = (id) => document.getElementById(id);
+    const nameInput = $('nameInput');
+    const addBtn = $('addBtn');
+    const sampleBtn = $('sampleBtn');
+    const resetPickedBtn = $('resetPickedBtn');
+    const clearAllBtn = $('clearAllBtn');
+    const pickBtn = $('pickBtn');
+    const winnerName = $('winnerName');
+    const winnerCard = $('winnerCard');
+    const message = $('message');
+    const studentList = $('studentList');
+    const pickedList = $('pickedList');
+    const totalCount = $('totalCount');
+    const remainingCount = $('remainingCount');
+    const pickedCount = $('pickedCount');
+    const pickedText = $('pickedText');
+    const studentText = $('studentText');
+    const confettiLayer = $('confettiLayer');
+
+    let students = load(STORAGE_KEY, []);
+    let picked = load(PICKED_KEY, []).filter((name) => students.includes(name));
+    let isRolling = false;
+    let audioCtx = null;
+    let drumTimer = null;
+
+    function load(key, fallback) {
+      try {
+        const value = JSON.parse(localStorage.getItem(key));
+        return Array.isArray(value) ? value : fallback;
+      } catch {
+        return fallback;
+      }
+    }
+
+    function save() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(students));
+      localStorage.setItem(PICKED_KEY, JSON.stringify(picked));
+    }
+
+    function parseNames(text) {
+      return text
+        .split(/[\n\r\t,;]+/g)
+        .map((name) => name.trim())
+        .filter(Boolean);
+    }
+
+    function remainingStudents() {
+      const pickedSet = new Set(picked);
+      return students.filter((name) => !pickedSet.has(name));
+    }
+
+    function escapeHtml(text) {
+      return text.replace(/[&<>'"]/g, (char) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+      }[char]));
+    }
+
+    function initAudio() {
+      if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      }
+      if (audioCtx.state === 'suspended') audioCtx.resume();
+    }
+
+    function tone(freq, duration, type = 'sine', gainValue = 0.07, delay = 0) {
+      if (!audioCtx) return;
+      const now = audioCtx.currentTime + delay;
+      const oscillator = audioCtx.createOscillator();
+      const gain = audioCtx.createGain();
+      oscillator.type = type;
+      oscillator.frequency.setValueAtTime(freq, now);
+      gain.gain.setValueAtTime(0.0001, now);
+      gain.gain.exponentialRampToValueAtTime(gainValue, now + 0.012);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + duration);
+      oscillator.connect(gain);
+      gain.connect(audioCtx.destination);
+      oscillator.start(now);
+      oscillator.stop(now + duration + 0.03);
+    }
+
+    function startDrumSound() {
+      initAudio();
+      stopDrumSound();
+      let step = 0;
+      drumTimer = setInterval(() => {
+        tone(step % 2 ? 150 : 110, 0.055, 'square', 0.045);
+        tone(55, 0.05, 'sine', 0.03);
+        step += 1;
+      }, 95);
+    }
+
+    function stopDrumSound() {
+      if (drumTimer) clearInterval(drumTimer);
+      drumTimer = null;
+    }
+
+    function playDing() {
+      initAudio();
+      tone(784, 0.16, 'sine', 0.09, 0);
+      tone(1046.5, 0.18, 'sine', 0.09, 0.12);
+      tone(1318.5, 0.28, 'triangle', 0.075, 0.24);
+    }
+
+    function popConfetti() {
+      confettiLayer.innerHTML = '';
+      const colors = ['#ff4aa2', '#ffe66d', '#66e8c5', '#7c3aed', '#fb7185', '#38bdf8', '#ffffff'];
+      const count = 190;
+      for (let i = 0; i < count; i += 1) {
+        const piece = document.createElement('span');
+        piece.className = 'confetti';
+        piece.style.left = `${Math.random() * 100}%`;
+        piece.style.background = colors[Math.floor(Math.random() * colors.length)];
+        piece.style.setProperty('--drift', `${(Math.random() - 0.5) * 420}px`);
+        piece.style.setProperty('--duration', `${2.8 + Math.random() * 2.4}s`);
+        piece.style.animationDelay = `${Math.random() * 0.45}s`;
+        piece.style.transform = `rotate(${Math.random() * 360}deg)`;
+        if (Math.random() > 0.55) piece.style.borderRadius = '999px';
+        confettiLayer.appendChild(piece);
+      }
+      setTimeout(() => { confettiLayer.innerHTML = ''; }, 5600);
+    }
+
+    function render() {
+      const remaining = remainingStudents();
+      totalCount.textContent = students.length;
+      remainingCount.textContent = remaining.length;
+      pickedCount.textContent = picked.length;
+      pickedText.textContent = `${picked.length}명`;
+      studentText.textContent = `${students.length}명`;
+
+      studentList.innerHTML = '';
+      if (students.length === 0) {
+        studentList.innerHTML = '<li class="empty">아직 등록된 학생이 없습니다.</li>';
+      } else {
+        const pickedSet = new Set(picked);
+        students.forEach((name) => {
+          const li = document.createElement('li');
+          li.className = `chip${pickedSet.has(name) ? ' picked' : ''}`;
+          li.innerHTML = `<span>${escapeHtml(name)}</span>`;
+          const del = document.createElement('button');
+          del.type = 'button';
+          del.textContent = '×';
+          del.title = `${name} 삭제`;
+          del.addEventListener('click', () => removeStudent(name));
+          li.appendChild(del);
+          studentList.appendChild(li);
+        });
+      }
+
+      pickedList.innerHTML = '';
+      if (picked.length === 0) {
+        pickedList.innerHTML = '<li class="empty">아직 뽑힌 학생이 없습니다.</li>';
+      } else {
+        picked.forEach((name, index) => {
+          const li = document.createElement('li');
+          li.className = 'picked-item';
+          li.innerHTML = `<span><span class="order">${index + 1}</span>${escapeHtml(name)}</span><span>🎊</span>`;
+          pickedList.appendChild(li);
+        });
+      }
+
+      pickBtn.disabled = isRolling || remaining.length === 0;
+      resetPickedBtn.disabled = isRolling || picked.length === 0;
+      addBtn.disabled = isRolling;
+      sampleBtn.disabled = isRolling;
+      clearAllBtn.disabled = isRolling || students.length === 0;
+
+      if (!isRolling) {
+        if (students.length === 0) {
+          message.textContent = '명단을 등록한 뒤 버튼을 눌러 주세요.';
+          if (winnerName.textContent.trim() === '' || winnerName.textContent === '모두 뽑았어요!') winnerName.textContent = '준비!';
+          winnerCard.classList.remove('show-mascot');
+        } else if (remaining.length === 0) {
+          message.textContent = '모든 학생이 한 번씩 뽑혔어요. 초기화하면 다시 뽑을 수 있어요.';
+          winnerName.textContent = '모두 뽑았어요!';
+          winnerCard.classList.remove('show-mascot');
+        } else if (picked.length === 0 && winnerName.textContent === '모두 뽑았어요!') {
+          winnerName.textContent = '준비!';
+          winnerCard.classList.remove('show-mascot');
+        }
+      }
+    }
+
+    function addStudents() {
+      const names = parseNames(nameInput.value);
+      if (names.length === 0) {
+        message.textContent = '붙여넣은 이름이 없어요.';
+        return;
+      }
+      const before = students.length;
+      students = [...new Set([...students, ...names])];
+      picked = picked.filter((name) => students.includes(name));
+      const added = students.length - before;
+      const duplicate = names.length - added;
+      nameInput.value = '';
+      winnerName.classList.remove('rolling', 'final');
+      winnerCard.classList.remove('show-mascot');
+      winnerName.textContent = added > 0 ? `${added}명 추가!` : '이미 있어요!';
+      message.textContent = `${added}명을 등록했어요.${duplicate ? ` 중복 ${duplicate}명은 제외했어요.` : ''}`;
+      save();
+      render();
+    }
+
+    async function pickStudent() {
+      const pool = remainingStudents();
+      if (pool.length === 0 || isRolling) return;
+
+      initAudio();
+      isRolling = true;
+      pickBtn.textContent = '두구두구두구...';
+      message.textContent = '누가 뽑힐까요? 두구두구두구!';
+      winnerName.classList.remove('final');
+      winnerName.classList.add('rolling');
+      winnerCard.classList.remove('show-mascot');
+      render();
+      startDrumSound();
+
+      const totalTicks = 34;
+      let tick = 0;
+
+      const roll = () => {
+        const randomName = pool[Math.floor(Math.random() * pool.length)];
+        winnerName.textContent = randomName;
+        tick += 1;
+        const delay = 42 + Math.pow(tick, 1.72) * 2.8;
+
+        if (tick < totalTicks) {
+          setTimeout(roll, delay);
+        } else {
+          const finalName = pool[Math.floor(Math.random() * pool.length)];
+          picked.push(finalName);
+          winnerName.classList.remove('rolling');
+          winnerName.textContent = finalName;
+          winnerName.classList.add('final');
+          winnerCard.classList.add('show-mascot');
+          message.textContent = `${finalName} 학생이 당첨! 축하해요!`;
+          isRolling = false;
+          pickBtn.textContent = '두구두구 뽑기!';
+          stopDrumSound();
+          playDing();
+          popConfetti();
+          save();
+          render();
+        }
+      };
+
+      roll();
+    }
+
+    function removeStudent(name) {
+      if (isRolling) return;
+      students = students.filter((student) => student !== name);
+      picked = picked.filter((student) => student !== name);
+      if (winnerName.textContent === name) {
+        winnerName.classList.remove('final', 'rolling');
+        winnerCard.classList.remove('show-mascot');
+        winnerName.textContent = '준비!';
+      }
+      message.textContent = `${name} 학생을 삭제했어요.`;
+      save();
+      render();
+    }
+
+    function resetPicked() {
+      if (isRolling || picked.length === 0) return;
+      picked = [];
+      winnerName.classList.remove('final', 'rolling');
+      winnerCard.classList.remove('show-mascot');
+      winnerName.textContent = students.length ? '다시 준비!' : '준비!';
+      message.textContent = '뽑힌 학생을 모두 다시 후보로 되돌렸어요.';
+      save();
+      render();
+    }
+
+    function clearAll() {
+      if (isRolling || students.length === 0) return;
+      if (!confirm('전체 명단과 뽑힌 기록을 모두 삭제할까요?')) return;
+      students = [];
+      picked = [];
+      winnerName.classList.remove('final', 'rolling');
+      winnerCard.classList.remove('show-mascot');
+      winnerName.textContent = '준비!';
+      message.textContent = '명단을 모두 삭제했어요.';
+      save();
+      render();
+    }
+
+    function insertSample() {
+      nameInput.value = '김민준\t이서연\t박지호\n최하은\t정우진\t한지민\n윤도현, 강서윤, 오지후\n송하윤; 문지아; 임도윤';
+      nameInput.focus();
+      message.textContent = '예시 명단을 넣었어요. 등록 버튼을 눌러 주세요.';
+    }
+
+    addBtn.addEventListener('click', addStudents);
+    sampleBtn.addEventListener('click', insertSample);
+    resetPickedBtn.addEventListener('click', resetPicked);
+    clearAllBtn.addEventListener('click', clearAll);
+    pickBtn.addEventListener('click', pickStudent);
+    nameInput.addEventListener('keydown', (event) => {
+      if ((event.ctrlKey || event.metaKey) && event.key === 'Enter') addStudents();
+    });
+
+    render();
+  </script>
+</body>
+</html>
+
+지금 완성된 파일을 다운받을수 있도록 index파일로 만들어줘
+
+완성된 HTML을 index.html 이름으로 받을 수 있게 파일명을 바꿔서 준비하겠습니다.
+
+9s 동안 생각함
+준비했습니다. 아래에서 index.html 파일로 다운로드할 수 있습니다.
+
+index.html 다운로드
+
+
+
+이 파일을 githube에 올릴건데 readme파일 만들어줘
+
+GitHub에 바로 올릴 수 있게 프로젝트 소개, 사용 방법, 기능 목록, 파일 구조가 들어간 README.md를 만들겠습니다.
+
+17s 동안 생각함
+README 파일을 만들었습니다. GitHub에 index.html과 함께 올리면 됩니다.
+
+README.md
+
+# 우리 반 랜덤 학생 뽑기
+
+교실 TV 화면에 띄워 사용하기 좋은 **랜덤 학생 뽑기 웹페이지**입니다.  
+학생 이름을 여러 명 한 번에 붙여넣고, 버튼을 누르면 이름이 빠르게 바뀌다가 한 명이 당첨됩니다.
+
+## 주요 기능
+
+- 학생 이름을 여러 명 한 번에 등록
+- 엑셀에서 복사한 명단 붙여넣기 지원
+- 줄바꿈, 탭, 쉼표, 세미콜론 기준 자동 분리
+- 중복 이름 자동 제외
+- 버튼을 누르면 이름이 빠르게 바뀌는 두구두구 효과
+- 한 번 뽑힌 학생은 다시 뽑히지 않음
+- 뽑힌 학생 목록 표시
+- 뽑힌 학생 초기화 버튼으로 다시 후보에 넣기
+- 당첨 시 색종이 폭죽 효과
+- 당첨자 옆에 귀여운 캐릭터 애니메이션 표시
+- 두구두구 효과음과 당첨 띠링 효과음
+- 핑크 배경과 큰 글씨 적용
+- 프리텐다드 폰트 사용
+- 브라우저에 명단과 뽑힌 기록 자동 저장
+
+## 사용 방법
+
+1. `index.html` 파일을 브라우저에서 엽니다.
+2. 학생 이름을 입력창에 붙여넣습니다.
+   - 한 줄에 한 명씩 입력해도 됩니다.
+   - 엑셀에서 여러 셀을 복사해 그대로 붙여넣어도 됩니다.
+3. 등록 버튼을 누릅니다.
+4. `두구두구 뽑기!` 버튼을 누르면 랜덤으로 한 명이 뽑힙니다.
+5. 이미 뽑힌 학생은 자동으로 후보에서 제외됩니다.
+6. 다시 전체 학생을 후보로 되돌리고 싶으면 `뽑힌 학생 초기화` 버튼을 누릅니다.
+
+## GitHub Pages로 배포하기
+
+1. GitHub 저장소를 만듭니다.
+2. 이 프로젝트의 `index.html` 파일과 `README.md` 파일을 저장소에 올립니다.
+3. 저장소의 **Settings → Pages** 메뉴로 이동합니다.
+4. **Build and deployment**에서 배포 브랜치를 선택합니다.
+   - 보통 `main` 브랜치와 `/root` 폴더를 선택하면 됩니다.
+5. 저장하면 잠시 후 GitHub Pages 주소가 생성됩니다.
+
+## 파일 구조
+
+```text
+.
+├── index.html
+└── README.md
+```
+
+## 참고 사항
+
+- 효과음은 브라우저 보안 정책 때문에 사용자가 버튼을 누른 뒤부터 재생됩니다.
+- 학생 명단과 뽑힌 기록은 사용하는 브라우저의 로컬 저장소에 저장됩니다.
+- 다른 컴퓨터나 다른 브라우저에서는 명단을 다시 등록해야 합니다.
+
+## 라이선스
+
+수업과 교육 활동에서 자유롭게 사용할 수 있습니다.
+
+
